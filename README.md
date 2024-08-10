@@ -1,1 +1,1 @@
-# accessing_web_with_python_learning
+This repo is for things related to the web- urllib, bs4, xml, json, etc..
